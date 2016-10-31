@@ -3,4 +3,4 @@ build:
   project: unique_ptr_tricks.sln
   verbosity: minimal
 test_script:
-- cmd: Release\unique_ptr_tricks.exe
+- cmd: C:\projects\unique-ptr-trick\Release\unique_ptr_tricks.exe

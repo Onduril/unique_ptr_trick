@@ -3,4 +3,7 @@
   <ItemGroup>
     <ClCompile Include="unique_ptr_deleter_size_trick.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FunctionFunctor.h" />
+  </ItemGroup>
 </Project>

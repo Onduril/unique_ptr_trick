@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="unique_ptr_deleter_size_trick.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FunctionFunctor.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{56E18BBB-3E5D-4415-BADC-F96577F6CEF7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>

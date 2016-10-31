@@ -2,5 +2,3 @@ version: 1.0.{build}
 build:
   project: unique_ptr_tricks.sln
   verbosity: minimal
-test_script:
-- cmd: C:\projects\unique-ptr-trick\Release\unique_ptr_tricks.exe
